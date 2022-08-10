@@ -1,8 +1,10 @@
 # Atividade-Desenvolvedor-PHP
 Exercicio 
-
+<br>
 Banco de dados utilizado Mysql
+<br>
 Comandos utilizados para a criação do banco e tabela.
+<br>
 CREATE DATABASE cliente;
 USE cliente;
 CREATE TABLE pessoa(
